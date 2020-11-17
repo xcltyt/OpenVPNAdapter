@@ -23,7 +23,7 @@ VALID_ARCHS[sdk=iphonesimulator*] = i386 x86_64
 //
 // macOS-specific settings
 //
-MACOSX_DEPLOYMENT_TARGET = 10.11
+MACOSX_DEPLOYMENT_TARGET = 10.13
 
 SDKROOT[arch=i386] = macosx
 SDKROOT[arch=x86_64] = macosx
