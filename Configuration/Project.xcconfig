@@ -27,5 +27,6 @@ MACOSX_DEPLOYMENT_TARGET = 10.11
 
 SDKROOT[arch=i386] = macosx
 SDKROOT[arch=x86_64] = macosx
+SDKROOT[arch=arm64] = macosx
 
-VALID_ARCHS[sdk=macosx*] = i386 x86_64
+VALID_ARCHS[sdk=macosx*] = i386 x86_64 arm64
